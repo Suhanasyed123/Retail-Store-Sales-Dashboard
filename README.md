@@ -31,10 +31,6 @@ This dashboard enables retail businesses to monitor sales trends, identify top-p
 3. Ensure the required dataset (`Datasets.xlsx`) is available.
 4. Explore the interactive reports and insights.
 
-## 🖼️ Dashboard Preview
-
-![Retail Store Sales Dashboard](Retail%20Store%20Sales%20Dashboard.png)
-
 ## 📩 Contact Information
 
 For any inquiries, feel free to reach out:
